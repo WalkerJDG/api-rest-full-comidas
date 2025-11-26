@@ -1,17 +1,20 @@
 // ENDPOINTS 
 
 GET PRODUCTOS
-http://localhost:7777/productos
+https://api-rest-full-comidas.onrender.com/productos
 
 GET PEDIDOS
-http://localhost:7777/pedidos
+https://api-rest-full-comidas.onrender.com/pedidos
+
 
 GET BY ID PEDIDOS
-http://localhost:7777/pedidos/(id)
+https://api-rest-full-comidas.onrender.com/productos/(id)
+
 
 POST PEDIDOS
 
-http://localhost:7777/pedidos
+https://api-rest-full-comidas.onrender.com/pedidos
+
 
 Body:
 
@@ -22,7 +25,8 @@ Body:
 
 PUT BY ID PEDIDOS
 
-http://localhost:7777/pedidos/(id)
+https://api-rest-full-comidas.onrender.com/pedidos/(id)
+
 
 Body:
 
@@ -33,7 +37,7 @@ Body:
 
 DELETE BY ID PEDIDOS
 
-http://localhost:7777/pedidos/(id)
+https://api-rest-full-comidas.onrender.com/pedidos/(id)
 
 
 
